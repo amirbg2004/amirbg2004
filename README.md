@@ -13,11 +13,9 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/amirbg2004/github-stats-transparent/output/generated/overview.svg" alt="GitHub Stats" align="right" />
-
-<p align="right">
-  <img src="https://raw.githubusercontent.com/amirbg2004/github-stats-transparent/output/generated/overview.svg" width="45%" />
-</p>
+<a href="#amirbg2004-title">
+  <img src="https://raw.githubusercontent.com/amirbg2004/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+</a>
 
 - :office: &nbsp;I'm currently working at **[Oreyeon]** as a Backend Engineer
 - :seedling: &nbsp;I’m currently working on my cloud & deployment skills
@@ -26,7 +24,7 @@
 
 <br>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
