@@ -75,7 +75,11 @@
         <img src="./img/vs-code-original.svg" width="48" height="48" alt="VSCode" />
       <br>VSCode
     </td>
-      <td align="center" width="96"> 
+  </tr>
+</table>
+
+<table>
+    <td align="center" width="96"> 
         <img src="./img/android-studio-original.svg" width="48" height="48" alt="Android Studio" />
       <br>Android Studio
     <td align="center" width="96"> 
@@ -99,7 +103,6 @@
         <img src="./img/jira-original.svg" width="48" height="48" alt="Jira" />
       <br>Jira
     </td>
-  </tr>
 </table>
 
 <h2 align="left">Contribution Graph</h2>
