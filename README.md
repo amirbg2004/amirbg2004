@@ -32,25 +32,70 @@
 
 <table>
   <tr>
+    <td align="center" width="96"> 
+        <img src="./img/android-original.svg" width="48" height="48" alt="Android" />
+      <br>Android
+    </td>
     <td align="center" width="96">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      <br>Go
+        <img src="./img/java-original.svg" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="./img/aws-original.svg" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="./img/google-cloud-original.svg" width="48" height="48" alt="Google Cloud" />
+      <br>Google Cloud
     </td>
     <td align="center" width="96">
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       <br>Python
     </td>
+      <td align="center" width="96"> 
+        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+      <td align="center" width="96"> 
+        <img src="./img/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+      <td align="center" width="96"> 
+        <img src="./img/apache-original.svg" width="48" height="48" alt="Apache" />
+      <br>Apache
+    </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
       <br>Kubernetes
     </td>
+    </td>
+      <td align="center" width="96"> 
+        <img src="./img/vs-code-original.svg" width="48" height="48" alt="VSCode" />
+      <br>VSCode
+    </td>
+      <td align="center" width="96"> 
+        <img src="./img/android-studio-original.svg" width="48" height="48" alt="Android Studio" />
+      <br>Android Studio
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
+        <img src="./img/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    </td>
+    <td align="center" width="96"> 
+        <img src="./img/postman-original.svg" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96"> 
+        <img src="./img/slack-original.svg" width="48" height="48" alt="Slack" />
+      <br>Slack
+    </td>
+    <td align="center" width="96"> 
+        <img src="./img/clickup-original.svg" width="48" height="48" alt="Clickup" />
+      <br>ClickUp
+    </td>
+    <td align="center" width="96"> 
+        <img src="./img/jira-original.svg" width="48" height="48" alt="Jira" />
+      <br>Jira
     </td>
   </tr>
 </table>
