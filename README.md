@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<div style="padding-bottom:0.5rem">
+<div style="margin-bottom:1rem">
   <p align="left">
     <a href="https://github.com/amirbg2004">
       <img src="https://komarev.com/ghpvc/?username=amirbg2004" alt="page views" />
