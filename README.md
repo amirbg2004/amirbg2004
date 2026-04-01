@@ -13,8 +13,6 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/amirbg2004/github-stats-transparent/output/generated/overview.svg" alt="GitHub Stats" align="right" />
-
 <p align="right">
   <img src="https://raw.githubusercontent.com/amirbg2004/github-stats-transparent/output/generated/overview.svg" width="45%" />
 </p>
