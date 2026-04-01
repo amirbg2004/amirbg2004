@@ -14,7 +14,7 @@
 </p>
 
 <a href="#amirbg2004-title">
-  <img src="https://raw.githubusercontent.com/amirbg2004/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+  <img src="https://raw.githubusercontent.com/amirbg2004/github-stats-transparent/output/generated/overview.svg" alt="amirbg2004" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **[Oreyeon]** as a Backend Engineer
