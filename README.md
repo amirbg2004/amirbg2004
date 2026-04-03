@@ -67,18 +67,22 @@
       <br>Apache
     </td>
     <td align="center" width="96">
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
       <br>Kubernetes
-    </td>
-    </td>
-      <td align="center" width="96"> 
-        <img src="./img/vs-code-original.svg" width="48" height="48" alt="VSCode" />
-      <br>VSCode
     </td>
   </tr>
 </table>
 
 <table>
+    </td>
+      <td align="center" width="96"> 
+        <img src="./img/vs-code-original.svg" width="48" height="48" alt="VSCode" />
+      <br>VSCode
+    </td>
     <td align="center" width="96"> 
         <img src="./img/android-studio-original.svg" width="48" height="48" alt="Android Studio" />
       <br>Android Studio
