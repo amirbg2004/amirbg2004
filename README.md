@@ -6,16 +6,16 @@
 
 <div style="margin-bottom:1rem">
   <p align="left">
-    <a href="https://github.com/amirbg2004">
-      <img src="https://komarev.com/ghpvc/?username=amirbg2004" alt="page views" />
+    <a href="https://github.com/amirboughanem">
+      <img src="https://komarev.com/ghpvc/?username=amirboughanem" alt="page views" />
     </a>
-    <a href="https://github.com/amirbg2004?tab=followers">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/amirbg2004?style=flat&logo=github">
+    <a href="https://github.com/amirboughanem?tab=followers">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/amirboughanem?style=flat&logo=github">
     </a>
   </p>
 
-  <a href="#amirbg2004-title">
-    <img src="https://raw.githubusercontent.com/amirbg2004/github-stats-transparent/output/generated/overview.svg" alt="amirbg2004" align="right" />
+  <a href="#amirboughanem-title">
+    <img src="https://raw.githubusercontent.com/amirboughanem/github-stats-transparent/output/generated/overview.svg" alt="amirboughanem" align="right" />
   </a>
 </div>
 
@@ -111,7 +111,7 @@
 
 <h2 align="left">Contribution Graph</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amirbg2004&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amirboughanem&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <!-- links -->
 
