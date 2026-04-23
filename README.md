@@ -12,6 +12,7 @@
     <a href="https://github.com/amirboughanem?tab=followers">
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/amirboughanem?style=flat&logo=github">
     </a>
+    <a href="https://lebhub.xyz/dev/amirboughanem"><img src="https://iilpqhmmreujnytctjwh.supabase.co/functions/v1/badge-svg?user=amirboughanem" alt="Verified Lebanese Dev on lebhub.xyz" width="175" /></a>
   </p>
 
   <a href="#amirboughanem-title">
